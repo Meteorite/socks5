@@ -5,7 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/jpillora/chisel/share/socks5/scope"
+	"github.com/meteorite/scope"
 	"io"
 	"io/ioutil"
 	"net"

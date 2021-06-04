@@ -1,7 +1,7 @@
 package socks5
 
 import (
-	"github.com/jpillora/chisel/share/socks5/scope"
+	"github.com/meteorite/scope"
 	"net"
 	"sync"
 )

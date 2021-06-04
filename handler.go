@@ -3,7 +3,7 @@ package socks5
 import (
 	"context"
 	"fmt"
-	"github.com/jpillora/chisel/share/socks5/scope"
+	"github.com/meteorite/scope"
 	"golang.org/x/sync/errgroup"
 	"io"
 	"log"
